@@ -1,0 +1,2 @@
+# safelink
+A Javascript safelink
